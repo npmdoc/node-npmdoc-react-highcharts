@@ -1,6 +1,6 @@
 # npmdoc-react-highcharts
 
-#### api documentation for  [react-highcharts (v11.5.0)](https://github.com/kirjs/react-highcharts#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-highcharts.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-highcharts) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-highcharts.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-highcharts)
+#### basic api documentation for  [react-highcharts (v11.5.0)](https://github.com/kirjs/react-highcharts#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-highcharts.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-highcharts) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-highcharts.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-highcharts)
 
 #### React wrapper for highcharts
 
